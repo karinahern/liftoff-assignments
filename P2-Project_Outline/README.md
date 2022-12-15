@@ -24,9 +24,9 @@ Include Features here
 ### Technologies
 Include Technologies here
 
-⋅⋅*Java
-⋅⋅*Thymeleaf
-⋅⋅*MySQL
+* Java
+* Thymeleaf
+* MySQL
 
 ### What I'll Have to Learn
 Include what you will need to learn here
