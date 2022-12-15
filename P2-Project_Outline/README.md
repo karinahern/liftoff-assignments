@@ -10,9 +10,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 Include overview here
 ### Features
 Include Features here
+User Login - Making an account is vital to track what users do on that website
+User Day & Night Tracking -  How did you sleep, how was your breakfast? Log and rate each of those activities
+User milestone tracking - Did you make some amazing tacos? Did you finally not pass out in hot yoga? Add those events to the app!
+User image uploading  -  attach images to your events
+User long term trends and search  - look at historical data, how you rated things by time/date/rating.
+Share events - allow for events to be shared & commented on by other users.
+
 ### Technologies
 Include Technologies here
+Java
+Thymeleaf
+MySQL
+
 ### What I'll Have to Learn
 Include what you will need to learn here
+
 ### Project Tracker
 Link to your Trello board here
+<https://trello.com/b/bD2tG0hl/liftoff>
